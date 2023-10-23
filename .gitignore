@@ -1,1 +1,2 @@
-project/data_set
+project/data_set/*.txt
+project/data_set/*.csv
